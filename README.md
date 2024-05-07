@@ -1,4 +1,4 @@
-👋 Hello! I'm Korhan, a recent graduate with a Bachelor of Applied Science from TH Köln. My academic journey has equipped me with a robust foundation in information technology, business process optimization, and data analytics.
+👋 Hello! I'm Korhan, a recent graduate with a Bachelor of Applied Science from TH Köln. My academic journey has equipped me with a robust foundation in software development, business process optimization, and data analytics.
 
 💼 Armed with this degree, I bring a fresh perspective and an insatiable hunger for knowledge to the table. I'm passionate about leveraging technology to drive innovation and enhance business efficiency.
 
